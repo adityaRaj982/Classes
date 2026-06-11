@@ -6,6 +6,14 @@ int main(void)
     int month = 6;
     int year = 2026;
     
-    printf("%i/0%i/%i\n",  date, month, year);
-    printf("%d/0%d/%d\n", year, month, date);
+    printf("Today is %dth june %d\n",  date, year);
+    printf("Today is %dth june %d\n",  date, year);
+    printf("Today is %dth june %d\n",  date, year);
+    printf("Today is %dth june %d\n",  date, year);
+    printf("Today is %dth june %d\n",  date, year);
+    printf("Today is %dth june %d\n",  date, year);
+    printf("Today is %dth june %d\n",  date, year);
+    printf("Today is %dth june %d\n",  date, year);
+    printf("Today is %dth june %d\n",  date, year);
+    printf("Today is %dth june %d\n",  date, year);
 }
